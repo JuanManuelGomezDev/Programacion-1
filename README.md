@@ -3,8 +3,8 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Gomez, Juan Manuwl
-- **Comisión:** M2025-7 14 
+- **Nombre:** Gomez, Juan Manuel
+- **Comisión:** M2025- 14 
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
